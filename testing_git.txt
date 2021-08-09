@@ -5,3 +5,5 @@ solamente me estoy familiarizando con git y me encanta
 en camara parece algo pero enrealidad no hay nada bueno es lo mismo loco
 
 hoy es el CEO de platzi vamos a agregar codigo.
+
+vamos con mas codigo y mas cambios para ver como funciona esto
